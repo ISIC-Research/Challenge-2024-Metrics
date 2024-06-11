@@ -17,5 +17,8 @@ The shaded regions in the following figure represents the pAUC of two algorithms
 #### Top-15 retrieval sensitivity
 A secondary prize is awarded to the submission with the highest **top-15 retrieval sensitivity**.
 
+Imagine you are a dermatologist conducting a full body skin exam for each patient that visits your clinic. Imagine that each patient undergoes 3D TBP prior to meeting you in the examination room. You have just a few minutes to spend with each patient, which is not enough time to view every lesion with your trusted dermatoscope. Wouldn't it be helpful if, by the time you walked into the room, an AI algorithm recommended a doable arbitrary number of each patient's most high-risk lesions to improve efficiency?
+
+To help answer this question, one secondary prize will be awarded to the algorithm that is most successful in scoring malignancies within the top-15 highest scored images per patient. In the event of a tie, the algorithm that ranks the detected malignancies highest among those top-15 lesions per patient will win the secondary prize.
 
 #### Model Efficiency
