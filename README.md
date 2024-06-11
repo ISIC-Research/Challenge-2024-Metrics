@@ -10,6 +10,12 @@ The shaded regions in the following figure represents the pAUC of two algorithms
 
 ![Jiang](https://github.com/ISIC-Research/Challenge-2024-Metrics/assets/33763338/314e75c5-1965-42d3-9dd7-384dd7c1d5c0)
 
-### Seconary Scoring Metric
+### Seconary Scoring Metrics
+- Top-15 retrieval sensitivity
+- Model Efficiency
+
+#### Top-15 retrieval sensitivity
 A secondary prize is awarded to the submission with the highest **top-15 retrieval sensitivity**.
 
+
+#### Model Efficiency
