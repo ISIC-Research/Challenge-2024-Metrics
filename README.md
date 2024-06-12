@@ -22,3 +22,4 @@ Imagine you are a dermatologist conducting a full body skin exam for each patien
 To help answer this question, one secondary prize will be awarded to the algorithm that is most successful in scoring malignancies within the top-15 highest scored images per patient. In the event of a tie, the algorithm that ranks the detected malignancies highest among those top-15 lesions per patient will win the secondary prize.
 
 ### Model Efficiency
+Submissions will be evaluated for inference time on an undisclosed subset of test set images. This prize is optional and requires teams to submit a Kaggle notebook to the challenge organizers.
